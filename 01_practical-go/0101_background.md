@@ -31,12 +31,19 @@ and many more …
 
 ### Robust & Productive:
 
-- Static Types
-- Yet feels dynamic
+- Static Types (Yet feels dynamic)
 - Garbage Collector (Sub millisecond pauses)
 - Rich and mature standard library
 - Fast Compilation
 - Forces you to check errors
+
+### Great Tooling:
+
+- The go tool (build, run, test, benchmark, install, ...)
+- Modules (dependancy management)
+- Built-in profiler & tracer (with web interface)
+- Built-in logging & metrics
+- A lot of 3rd party modules
 
 ### Will Save You Money:
 
