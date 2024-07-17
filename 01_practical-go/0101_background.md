@@ -40,7 +40,7 @@ and many more …
 
 ### Will Save You Money:
 
-- Iron.io went down from 30 servers to only 2 servers
+- iron.io went down from 30 servers to only 2 servers
 - Compiles to static executable (Easy Deployment)
 - Stable API
 - Easy to cross compile
